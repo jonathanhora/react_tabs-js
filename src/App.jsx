@@ -1,4 +1,5 @@
-import { useState, React } from 'react';
+import React from 'react';
+import { useState } from 'react';
 import 'bulma/css/bulma.css';
 import '@fortawesome/fontawesome-free/css/all.css';
 import './App.scss';
